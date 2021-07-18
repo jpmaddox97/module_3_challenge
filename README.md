@@ -8,3 +8,12 @@
 [Main Code](Starter_Code/crypto_arbitrage.ipynb)
 
 [Crypto Data](Starter_Code/Resources)
+
+---
+
+**This is a project that shows how you might conduct historical analysis on bitcoin from two different exchanges. The goal is to see where you might be able to make profit from arbitrage**
+
+---
+
+### Dependancies: Fire and Questionary
+**To succesfully run this code your best option would be to use anaconda. Otherwise you may have to install pandas, matplotlib and pathlib**
